@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E3EDE5F2-A6B8-4CA3-AAC7-FA3B5D6EAB2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PROYECTO_BASE_DE_DATOS</RootNamespace>
+    <AssemblyName>PROYECTO BASE DE DATOS</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Añadir_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Añadir_categoria.Designer.cs">
+      <DependentUpon>Añadir_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Añadir_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Añadir_Cliente.Designer.cs">
+      <DependentUpon>Añadir_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Añadir_rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Añadir_rol.Designer.cs">
+      <DependentUpon>Añadir_rol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conexiones.cs" />
+    <Compile Include="Añadir_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Añadir_Producto.Designer.cs">
+      <DependentUpon>Añadir_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editar producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editar producto.Designer.cs">
+      <DependentUpon>Editar producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editar_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editar_categoria.Designer.cs">
+      <DependentUpon>Editar_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Editar_rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Editar_rol.Designer.cs">
+      <DependentUpon>Editar_rol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Eliminar categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Eliminar categoria.Designer.cs">
+      <DependentUpon>Eliminar categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elimina_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elimina_producto.Designer.cs">
+      <DependentUpon>Elimina_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elimina_Rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elimina_Rol.Designer.cs">
+      <DependentUpon>Elimina_Rol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="General.Designer.cs">
+      <DependentUpon>General.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iniciosesion.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Añadir_categoria.resx">
+      <DependentUpon>Añadir_categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Añadir_Cliente.resx">
+      <DependentUpon>Añadir_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Añadir_Producto.resx">
+      <DependentUpon>Añadir_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Añadir_rol.resx">
+      <DependentUpon>Añadir_rol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editar producto.resx">
+      <DependentUpon>Editar producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editar_categoria.resx">
+      <DependentUpon>Editar_categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Editar_rol.resx">
+      <DependentUpon>Editar_rol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Eliminar categoria.resx">
+      <DependentUpon>Eliminar categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elimina_producto.resx">
+      <DependentUpon>Elimina_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elimina_Rol.resx">
+      <DependentUpon>Elimina_Rol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General.resx">
+      <DependentUpon>General.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

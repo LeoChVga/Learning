@@ -1,0 +1,23 @@
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\bin\Debug\PROYECTO BASE DE DATOS.exe
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\bin\Debug\PROYECTO BASE DE DATOS.pdb
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Properties.Resources.resources
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.csproj.GenerateResource.Cache
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.exe
+c:\users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.pdb
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.csprojResolveAssemblyReference.cache
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.login.resources
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\bin\Debug\PROYECTO BASE DE DATOS.exe.config
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.General.resources
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Añadir_Producto.resources
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Añadir_Cliente.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Añadir_rol.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Añadir_categoria.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Editar_producto.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Elimina_producto.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Editar_categoria.resources
+C:\Users\leo\documents\visual studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Eliminar_categoria.resources
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Editar_rol.resources
+C:\Users\leo\Documents\Visual Studio 2010\Projects\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO_BASE_DE_DATOS.Elimina_Rol.resources
+C:\Users\leo\Desktop\Proyecto Ever Leonardo Chavira Vega\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\bin\Debug\PROYECTO BASE DE DATOS.exe.config
+C:\Users\leo\Desktop\Proyecto Ever Leonardo Chavira Vega\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.exe
+C:\Users\leo\Desktop\Proyecto Ever Leonardo Chavira Vega\PROYECTO BASE DE DATOS\PROYECTO BASE DE DATOS\obj\x86\Debug\PROYECTO BASE DE DATOS.pdb
