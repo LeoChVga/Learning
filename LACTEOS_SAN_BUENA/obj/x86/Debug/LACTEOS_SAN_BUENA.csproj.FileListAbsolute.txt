@@ -1,0 +1,10 @@
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\bin\Debug\LACTEOS_SAN_BUENA.exe
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\bin\Debug\LACTEOS_SAN_BUENA.pdb
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.Form1.resources
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.Properties.Resources.resources
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.csproj.GenerateResource.Cache
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.exe
+c:\users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.pdb
+C:\Users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.General.resources
+C:\Users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.Message_box_personalizado.resources
+C:\Users\leo\documents\visual studio 2010\Projects\LACTEOS_SAN_BUENA\LACTEOS_SAN_BUENA\obj\x86\Debug\LACTEOS_SAN_BUENA.paneles.resources
